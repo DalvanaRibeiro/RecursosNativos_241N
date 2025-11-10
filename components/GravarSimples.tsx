@@ -1,4 +1,4 @@
-
+// INSTALE O PACOTE: npx expo install expo-av 
 
 
 import React, { useRef, useState } from "react";              // importa React e os hooks useRef/useState
@@ -103,3 +103,4 @@ const estilos = StyleSheet.create({
     fontWeight: "600",               // semi-negrito
   },
 });
+
